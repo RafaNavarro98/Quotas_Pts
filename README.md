@@ -1,2 +1,2 @@
-# Quotas_Pts
-Quotas Dashboard (Looker Studio)  with Google Sheets and Python. 
+git clone https://github.com/C:\Users\Dell\Desktop\DataScience/Quotas_Pts.git
+cd Quotas_Pts
