@@ -1,4 +1,4 @@
-# Desafio de Transformação de Dados e Dashboard com Looker
+# Desafio de Transformação de Dados com Python e Dashboard com Looker
 
 ## Descrição do Projeto
 
