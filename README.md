@@ -51,10 +51,4 @@ O script Python realiza os seguintes passos:
 
 
 
-   ```sh
-   git clone https://github.com/seu-usuario/data-transformation-project.git
-   cd data-transformation-project
-pip install -r requirements.txt
-
-
 
